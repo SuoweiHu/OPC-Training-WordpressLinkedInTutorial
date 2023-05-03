@@ -1,4 +1,4 @@
-# OPC-WordPress-Trainning
+# OPC-WordPress-Training
 Link to SharePoint xlsx sheet: https://opcit072.sharepoint.com/:x:/g/EWv7G9uYptdKtw7cS1lqYGcBJOBWvK8MuC4Yss4ClAOMpQ?e=WXKSlz
 
 
