@@ -56,9 +56,9 @@
 
 
 
-## Theming 
+## Custom Theming 
 
-### How to choose a theme 
+### Choose a theme 
 
 -   Determining whether you need a premium or free theme 
     -   **Divi by Elegant Themes:** 
@@ -76,7 +76,9 @@
 
 
 
-### Filtering Theem (Finding the Theme Accoring to Criteria) 
+### Filtering Theem 
+
+==(Finding your Theme Accoring to Criteria)==
 
  Consider you are in need of building a blog which is:
 
@@ -94,11 +96,9 @@ Then you could use `Appearance > Themes > Feature Filter`, and configure like th
 
 
 
-
-
 ### Updating Theme
 
-#### Before updating your theme (backup)
+==Before updating your theme (backup)==
 
 -   Make a full backup of your website
 -   Read the release notes
@@ -114,11 +114,60 @@ Then you could use `Appearance > Themes > Feature Filter`, and configure like th
 
 
 
-## Logo
+## Global Appearance 
 
-Customize your logo via `appearance > customize > `
 
-<img src="assets/2023.05.03%20-%2015_04_55%20-%20%20%5BGoogle%20Chrome-Installing%20your%20logo%5D%20-.jpg" alt="2023.05.03 - 15_04_55 -  [Google Chrome-Installing your logo] -" style="zoom:33%;" /> 
 
-Find the site identitity option 
+### Logo & Favicon
+
+[https://wordpress.com/support/site-logo/](https://wordpress.com/support/site-logo/)
+
+To add your logo, follow these steps:
+
+1.  Go to Appearance **→ Customize and click on the **Site Identity section.
+2.  Click **Select logo** to open your site’s Media.
+3.  Upload a new image, or select one that’s already in your Media.
+4.  Click **Set as logo**, and you’ll see your logo appear in the preview window.
+5.  Click the **Save Changes** button at the top right to activate the logo on your site.
+
+<img src="assets/2023.05.03%20-%2015_04_55%20-%20%20%5BGoogle%20Chrome-Installing%20your%20logo%5D%20-.jpg" alt="2023.05.03 - 15_04_55 -  [Google Chrome-Installing your logo] -" style="zoom:33%;" /> <img src="assets/2023.05.11%20-%2010_25_32%20-%20%20%5BGoogle%20Chrome-Site%20Logo%20%E2%80%93%20WordPress.com%20Support%5D%20-.jpg" alt="2023.05.11 - 10_25_32 -  [Google Chrome-Site Logo – WordPress.com Support] -" style="zoom:60%;" />
+
+You can also add the favicon in the same configuration page 
+
+
+
+
+
+
+
+### Color 
+
+Customize your color via `appearance > customize > (NEW PAGE) > > global`
+
+![2023.05.11 - 10_19_22 -  [Google Chrome-Themes ‹ My Great Blog — WordPress] -](assets/2023.05.11%20-%2010_19_22%20-%20%20%5BGoogle%20Chrome-Themes%20%E2%80%B9%20My%20Great%20Blog%20%E2%80%94%20WordPress%5D%20--3764676.jpg)
+
+
+
+### Typography 
+
+Customize your typography via `appearance > customize > (NEW PAGE) > > global`
+
+![2023.05.11 - 10_19_22 -  [Google Chrome-Themes ‹ My Great Blog — WordPress] -](assets/2023.05.11%20-%2010_19_22%20-%20%20%5BGoogle%20Chrome-Themes%20%E2%80%B9%20My%20Great%20Blog%20%E2%80%94%20WordPress%5D%20-.jpg)
+
+<img src="assets/2023.05.11%20-%2010_26_39%20-%20%20%5BGoogle%20Chrome-Setting%20colors%20and%20fonts%5D%20-.jpg" alt="2023.05.11 - 10_26_39 -  [Google Chrome-Setting colors and fonts] -" style="zoom:33%;" /> 
+
+
+
+
+
+### Premium Theme 
+
+The premium theme might have different entry point for styling, for instance for the premium theme "DIVI"
+
+-   Theme's website **icon** is edited via the following 
+    -   [image-20230511103136034](assets/image-20230511103136034.png)
+
+-   Theme's coloring and typography is edited via the following 
+    -   [2023.05.11 - 10_27_04 -  [Google Chrome-Setting colors and fonts] -](assets/2023.05.11%20-%2010_27_04%20-%20%20%5BGoogle%20Chrome-Setting%20colors%20and%20fonts%5D%20-.jpg) 
+    -   [2023.05.11 - 10_27_24 -  [Google Chrome-Setting colors and fonts] -](assets/2023.05.11%20-%2010_27_24%20-%20%20%5BGoogle%20Chrome-Setting%20colors%20and%20fonts%5D%20-.jpg)
 
