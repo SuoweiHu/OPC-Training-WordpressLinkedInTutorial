@@ -2,13 +2,17 @@
 
 
 
+# Blocks
+
+
+
 This secton of tutorial is rather straight forward, hence I will not take note in too fine grain of a detail
 
 You can add as many blocks as much in a single page as you like to build a complex page, steps to build a block: 
 
 
 
-
+## Baiscs 
 
 Create a new block (either via keyboard `/ back-slash` or using the GUI inline / on the top of the page)
 
